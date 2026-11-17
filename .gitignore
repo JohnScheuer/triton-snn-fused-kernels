@@ -5,12 +5,11 @@ __pycache__/
 .pytest_cache/
 .vscode/
 .idea/
-*.png
-*.jpg
-*.jpeg
-*.svg
 *.log
 *.pt
 *.pth
 *.npy
 *.npz
+!figures/*.png
+!figures/*.jpg
+!figures/*.svg
